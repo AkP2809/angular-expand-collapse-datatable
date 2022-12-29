@@ -1,4 +1,5 @@
 # AngularExpandCollapseDatatable
+Angular application leveraging multiTemplateDataRows concept for multi-row dynamic table with animations.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.0.
 
